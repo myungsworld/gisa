@@ -52,3 +52,29 @@ predicate calculus - 관계해석
 준거성=표준성
 
 SQL예약어는 될수있으면 컬럼명으로 사용하지 않아야한다.
+한개의insert 명령어로는 하나의 테이블만 생성가능
+한개의 DELET 문에는 한개의 테이블만 사용가능
+SQL에서 조건문= WHERE,LIKE
+
+integer 4바이트 정수
+smalliant 2바이트 정수
+float 부동 소수점 수
+decimal 10진 소수
+
+table의 check절은 인덱스에 대한 정보를 저장
+
+프로시저에서 EXCEPTION은 BEGIN-END 영역안에서 오류발생한 경우 처리
+
+DELETE는 테이블에서 튜플삭제
+DROP은 프로시져,트리거
+<>은 같지않다를 의미함
+
+트리거의 구문에는 DCL을 사용할수 없다
+EVENT 트리거가 실행되는 조건을 명시
+
+프로시저는 IN OUT이 다 있고 사용자 정의 함수는 IN만 있다 IN은 전달받고 OUT은 반환하는것
+
+Dynamic SQL은 SQL을 자유롭게 변경할수 있어 NULL을 처리하는 함수 사용할 필요가 없다
+WEB server -> WAS -> DBMS
+
+ORM -재사용과 유지보수가 쉽다 ,객체가 데이터베이스에 독립적,SQL은 학습해야함
