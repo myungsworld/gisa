@@ -205,8 +205,10 @@ ISO/IEC 12207
 IGP-내부(RIP-소규모 OSPF-대규모)
 EGP-외부(BGP는 EGP단점보안)    
     
-흐름제어의 정지및대기-한 번에 하나의 프레임 전송   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+흐름제어의 정지및대기-한 번에 하나의 프레임 전송   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         의 슬라이딩윈도우-한 번에 여러개의 프레임 전송    
     
-소프트웨어 개발보안 관련 주체    
-감사한(KISA)발행
+소프트웨어 개발보안 관련 주체-감사한(KISA)발행    
+    
+
