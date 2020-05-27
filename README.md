@@ -306,9 +306,8 @@ __구현__:__트랜잭션 작성__
     -구성요소:논리적 구조,제약 조건,연산  
     -__Attribute(속성)__:데이터의 가장 작은 단위,데이터 필드에 해당됨  
     -__Entity(개체)__:사람이 생각하는 개념이나 정보 단위 같은 현실세계의 대상체  
-    
-    
-    ![텍스트](https://www.google.com/imgres?imgurl=http%3A%2F%2Fmblogthumb2.phinf.naver.net%2F20120229_245%2Fk97b1114_13305225126767RmJY_JPEG%2F%25B0%25B3%25C3%25BC_%25C5%25B8%25C0%25D4%25B0%25FA_%25B0%25B3%25C3%25BC_%25C0%25CE%25BD%25BA%25C5%25CF%25BD%25BA.JPG%3Ftype%3Dw420&imgrefurl=http%3A%2F%2Fm.blog.naver.com%2Fk97b1114%2F140153616568&tbnid=P1zzudRAityTeM&vet=12ahUKEwjQhoWL19PpAhVOa5QKHddDDL8QMygAegUIARDYAQ..i&docid=BiTofbwa4FOzEM&w=420&h=218&q=%EA%B0%9C%EC%B2%B4%20%EC%86%8D%EC%84%B1&ved=2ahUKEwjQhoWL19PpAhVOa5QKHddDDL8QMygAegUIARDYAQ)
+  
+![텍스트](https://www.google.com/imgres?imgurl=http%3A%2F%2Fmblogthumb2.phinf.naver.net%2F20120229_245%2Fk97b1114_13305225126767RmJY_JPEG%2F%25B0%25B3%25C3%25BC_%25C5%25B8%25C0%25D4%25B0%25FA_%25B0%25B3%25C3%25BC_%25C0%25CE%25BD%25BA%25C5%25CF%25BD%25BA.JPG%3Ftype%3Dw420&imgrefurl=http%3A%2F%2Fm.blog.naver.com%2Fk97b1114%2F140153616568&tbnid=P1zzudRAityTeM&vet=12ahUKEwjQhoWL19PpAhVOa5QKHddDDL8QMygAegUIARDYAQ..i&docid=BiTofbwa4FOzEM&w=420&h=218&q=%EA%B0%9C%EC%B2%B4%20%EC%86%8D%EC%84%B1&ved=2ahUKEwjQhoWL19PpAhVOa5QKHddDDL8QMygAegUIARDYAQ)
     
     
     
