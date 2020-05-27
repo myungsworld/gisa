@@ -293,15 +293,37 @@ __cluster__ 사용,__드라이버__ 작성
 #### 인터페이스 구현 검증
 __구현 검증 도구__:xUnit,STAF,Fitness,NTAF,Selenum,watir
 __구현 감시 도구__:스카우터 제니퍼
-
-
-
-
-
-개념적 설계- 트랜잭션(원자성,고립성(격리성),일관성,지속성)    
-논리적 설계- DBMS
-물리적 설계- 접근 경로,방법,응답시간,저장공간의 효율화
-
+  
+---
+#### 데이터 베이스 설계
+  
+__개념적 설계__- __트랜잭션 모델링__(원자성,고립성(격리성),일관성,지속성)  
+__논리적 설계__- __트랜잭션 인터페이스 설계__  
+__물리적 설계__- 접근 경로,방법,응답시간,저장공간의 효율화  
+__구현__:__트랜잭션 작성__  
+  
+-__데이터 모델__:  
+    -구성요소:논리적 구조,제약 조건,연산  
+    -__Attribute(속성)__:데이터의 가장 작은 단위,데이터 필드에 해당됨  
+    -__Entity(개체)__:사람이 생각하는 개념이나 정보 단위 같은 현실세계의 대상체  
+    
+    
+    ![텍스트](https://www.google.com/imgres?imgurl=http%3A%2F%2Fmblogthumb2.phinf.naver.net%2F20120229_245%2Fk97b1114_13305225126767RmJY_JPEG%2F%25B0%25B3%25C3%25BC_%25C5%25B8%25C0%25D4%25B0%25FA_%25B0%25B3%25C3%25BC_%25C0%25CE%25BD%25BA%25C5%25CF%25BD%25BA.JPG%3Ftype%3Dw420&imgrefurl=http%3A%2F%2Fm.blog.naver.com%2Fk97b1114%2F140153616568&tbnid=P1zzudRAityTeM&vet=12ahUKEwjQhoWL19PpAhVOa5QKHddDDL8QMygAegUIARDYAQ..i&docid=BiTofbwa4FOzEM&w=420&h=218&q=%EA%B0%9C%EC%B2%B4%20%EC%86%8D%EC%84%B1&ved=2ahUKEwjQhoWL19PpAhVOa5QKHddDDL8QMygAegUIARDYAQ)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
 비트맵 인덱스-데이터종류가 적고 동일한 데이터가 많은 경우(분포도가 낮은경우) 최적의 성능을 발휘
 인덱스와 테이블 데이터는 분리하여 설계
 
