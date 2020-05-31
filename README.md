@@ -458,6 +458,8 @@ __무결성__(인가된 사용자만 데이터 __수정__ 할수 있게하는 �
     - __데이터 조작어(DML)__ : SELECT,INSERT,DELETE,UPDATE  
     - __데이터 제어어(DCL)__ : COMMIT,ROLLBACK,GRANT,REVOKE  
     
+__MySQL__:SHOW GRANTS FOR 사용자@호스트;  
+
 ---
 #### 트리거
 
